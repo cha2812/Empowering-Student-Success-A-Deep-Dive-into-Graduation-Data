@@ -22,8 +22,8 @@ In order to solve these problems, I had to find answers to the following questio
 ## Project Objective
  The aim is to examine the graduation trends and factors contributing to student success, understand Dropout Patterns, explore how long students typically remain enrolled and the factors influencing their decisions, Analyze the role of scholarships and implications of tuition fee defaults, assess the impact of age, special needs, and international status of students, understand gender distribution among students.  The task is to leverage SQL to explore and analyze the dataset, extracting valuable insights to aid in understanding the school's students data better. <br>
  **Dataset** I was provided with 3 different dataset. The datasets are attached to the repository. <br>
- The Graduation dataset <br>
- Course dataset <br>
+ The Graduation dataset. <br>
+ Course dataset. <br>
  Marital Status dataset. <br>
 
 ## Data Analysis
