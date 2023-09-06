@@ -137,7 +137,7 @@ Here are the Key Performance Indicators (KPIs) that provide better solutions and
 ## Visualization
 To better understand the findings, I made use of Power BI to create a visual which would be interactive and easy to understand as well.
 
-![](vis1.png)
+![](vis.png)
    
 ## Recommedations
 Here are some superb and excellent recommendations <br>
