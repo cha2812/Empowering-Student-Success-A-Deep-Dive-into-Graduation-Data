@@ -1,5 +1,5 @@
 # Empowering-Student-Success-A-Deep-Dive-into-Graduation-Data
-Welcome to "Empowering Student Success," your data-driven portal into higher education. The repository offers a nice perspective on academic success, persistence, and the challenges faced by students on their educational journey.
+Welcome to "Empowering Student Success," which provides you with data-driven insight into higher education. The repository offers a nice perspective on academic success, persistence, and the challenges faced by students on their educational journey.
 
 ## Introduction
 Education is a journey, and we believe that understanding all aspects of this journey is vital for academic institutions, educators, policymakers, and students themselves. "Student Success" offers a variety of analyses and visualizations aimed at uncovering the secrets to student success, persistence, and the challenges they face. Education is the cornerstone of society, and understanding the dynamics that influence student success is paramount. This repository offers a comprehensive exploration of graduation patterns, dropout trends, and factors shaping students' academic journeys.
@@ -137,7 +137,7 @@ Here are the Key Performance Indicators (KPIs) that provide better solutions and
 ## Visualization
 To better understand the findings, I made use of Power BI to create a visual which would be interactive and easy to understand as well.
 
-![](
+![](vis1.png)
    
 ## Recommedations
 Here are some superb and excellent recommendations <br>
