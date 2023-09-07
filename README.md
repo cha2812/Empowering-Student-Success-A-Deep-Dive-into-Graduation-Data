@@ -30,13 +30,13 @@ In order to solve these problems, I had to find answers to the following questio
 As we explore students' data, we will conduct extensive data analysis, visualization, and interpretation. I will use SQL queries to manipulate the data, Power BI for creating interactive visualizations, and provide detailed explanations. <br>
 The first step was to create the tables in the database
 
-![](pic1.png)
+![](pic1a.png)
 
 ![](pic2.png)
 
 ![](pic3.png)
 
-![](pic4.png)
+![](pic4a.png)
 
 ![](pic5.png)
 
