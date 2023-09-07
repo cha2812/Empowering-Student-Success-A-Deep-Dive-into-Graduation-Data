@@ -49,70 +49,70 @@ The school produced 2209 graduates.
 
 ![](pic7.png)
 
-2. What is the average age of students at enrollment?
+2. What is the average age of students at enrollment? <br>
 This query calculates the average age of students when they enrolled by selecting the "Age at enrollment" column and applying the AVG() function. <br>
 The result represents the average age of students when they started their courses. <br>
 The average age at enrollment for students is 23 years.
 
 ![](pic8.png)
 
-3. How many students are scholarship holders?
+3. How many students are scholarship holders? <br>
 This query counts the students who are scholarship holders, as indicated by the value 1 in the "Scholarship holder" column. <br>
 The result shows the total count of students who have scholarships. <br>
 We have a total of 1099 students who have scholarship.
 
 ![](pic9.png)
 
-4. How many students have an international background?
+4. How many students have an international background? <br>
 This query counts the students with an international background, where the "International" column equals 1. <br>
 The result provides the total count of international students. <br>
 The school has a total of 110 international students.
 
 ![](pic10.png)
 
-5. How many students have educational special needs?
+5. How many students have educational special needs? <br>
 This query counts the students who have educational special needs, as indicated by the value 1 in the "Educational special needs" column. <br>
 The result shows the total count of students with special needs. <br>
 We have 51 students who have special needs in the school.
 
 ![](pic11.png)
 
-6. What is the total number of students who have defaulted on tuition fees?
+6. What is the total number of students who have defaulted on tuition fees? <br>
 This query counts the students who have defaulted on tuition fees, where the "Debtor" column equals 1. <br>
 The result provides the total count of students who have not paid their tuition fees. <br>
 503 students have failed or defaulted on their school fees.
 
 ![](pic12.png)
 
-7. How many students have been displaced ?
+7. How many students have been displaced ? <br>
 This query counts the students who have been displaced, as indicated by the value 1 in the "Displaced" column. <br>
 The result provides the total count of students who have experienced displacement. <br>
 2426 students attending the school have been displaced which is quite high considering we have 4424 students.
 
 ![](pic13.png)
 
-8. What is the gender distribution among students?
+8. What is the gender distribution among students? <br>
 This query helps in understanding the gender composition of students in the dataset. You can see how many students are male and how many are female. <br>
 It's valuable for assessing gender diversity in your dataset. <br>
 We have 2868 Female students and 1556 Male students
 
 ![](pic14.png)
 
-10. What is the current status of Students?
+9. What is the current status of Students?
 This query helps in assessing the current status of students in the dataset. You can see how many students fall into each status category. <br>
 It's useful for monitoring student progress and identifying trends in graduation rates and dropouts. <br>
 We have 2209 students who have graduated, 1421 students who have dropped out and 794 students who are still enrolled at the school
 
 ![](pic15.png)
 
-11. What is top 5 courses for students at school?
+10. What is top 5 courses for students at school? <br>
 This query identifies the most popular courses among students. You can see which courses have the highest enrollment counts. <br>
 It's valuable for academic institutions to understand course demand and allocate resources accordingly. <br>
 Engineering, Economics, English, Political Science and Mathematics are most taken courses among students at the school.
 
 ![](pic16.png)
 
-12. What is the marital status distribution among students?
+11. What is the marital status distribution among students? <br>
 This query helps in understanding the marital status diversity among students. You can see how many students are married, single, divorced, etc. <br>
 It can be useful for tailoring services or support programs to different marital status groups. <br>
 We have 3919 students who identify as Single. <br>
