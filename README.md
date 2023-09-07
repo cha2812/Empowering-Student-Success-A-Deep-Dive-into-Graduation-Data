@@ -98,7 +98,7 @@ We have 2868 Female students and 1556 Male students
 
 ![](pic14.png)
 
-9. What is the current status of Students?
+9. What is the current status of Students? <br>
 This query helps in assessing the current status of students in the dataset. You can see how many students fall into each status category. <br>
 It's useful for monitoring student progress and identifying trends in graduation rates and dropouts. <br>
 We have 2209 students who have graduated, 1421 students who have dropped out and 794 students who are still enrolled at the school
